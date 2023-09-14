@@ -1,3 +1,19 @@
+/* 
+    Documentation : https://fr.javascript.info/
+
+    Les notions (nouvelles) abordées dans cet exercice sont expliquées ici : 
+    . https://fr.javascript.info/ifelse
+    . https://fr.javascript.info/comparison
+
+
+    Objectifs : 
+
+        . Découvrir les instructions conditionnelles
+        . Comprendre ce qu'est une expression booléenne
+        . Savoir utiliser l'instruction if/else dans un cas simple
+*/
+
+
 /*
     Voici venu le temps de votre première instruction conditionnelle.
 

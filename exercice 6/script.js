@@ -1,3 +1,17 @@
+/* 
+    Documentation : https://fr.javascript.info/
+
+    Les notions abordées dans cet exercice sont expliquées ici : 
+    . https://fr.javascript.info/ifelse
+    . https://fr.javascript.info/comparison
+    . https://fr.javascript.info/object
+
+
+    Objectifs : 
+
+        . Idem que le précédent exercice, en combinant avec des objets JS
+*/
+
 /*
     Ci-dessous, vous trouverez 2 objets, cat1 et cat2 qui décrivent 2 chats par leur nom et leur taille (en cm).
 

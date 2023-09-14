@@ -1,3 +1,17 @@
+/* 
+    Documentation : https://fr.javascript.info/
+
+    Les notions abordées dans cet exercice sont expliquées ici : 
+    . https://fr.javascript.info/ifelse
+    . https://fr.javascript.info/comparison
+    . https://fr.javascript.info/object
+
+
+    Objectifs : 
+
+        . Découvrir les instructions conditionnelles imnbriquées
+*/
+
 /*
     Plus on est de fous, plus on rit.
 
